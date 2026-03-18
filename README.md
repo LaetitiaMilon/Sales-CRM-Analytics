@@ -32,3 +32,9 @@ Dashboard interactif permettant d’analyser :
 Python (Pandas, Matplotlib, Seaborn)  
 Power BI  
 GitHub
+
+## Notebook Python
+
+L'analyse complète est disponible ici :
+
+👉 [Voir le notebook](notebooks/sales_crm_analysis.ipynb)
