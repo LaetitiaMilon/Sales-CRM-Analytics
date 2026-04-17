@@ -22,11 +22,18 @@ Le projet utilise plusieurs tables :
 - les bureaux régionaux ont des performances similaires
 
 ## Dashboard Power BI
-Dashboard interactif permettant d’analyser :
+
+Dashboard interactif permettant d'analyser :
 - performance commerciale
 - performance produit
 - performance des équipes
 - évolution des ventes
+
+### Aperçu
+
+![Performance Produit](dashboard_produit.png)
+![Performance Commerciale](dashboard_commercial.png)
+![Performance Client](dashboard_client.png)
 
 ## Outils
 Python (Pandas, Matplotlib, Seaborn)  
