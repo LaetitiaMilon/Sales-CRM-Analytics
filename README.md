@@ -22,12 +22,14 @@ Le projet utilise plusieurs tables :
 - les bureaux régionaux ont des performances similaires
 
 ## Dashboard Power BI
-
 Dashboard interactif permettant d'analyser :
 - performance commerciale
 - performance produit
 - performance des équipes
 - évolution des ventes
+- 
+## Télécharger le dashboard
+[Télécharger le fichier Power BI (.pbix)](Projet_Elevyte.pbix)
 
 ### Aperçu
 
