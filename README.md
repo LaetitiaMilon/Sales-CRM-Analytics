@@ -55,6 +55,8 @@ Cabinet de conseil en Data & Business Intelligence, spécialisé dans l'exploita
 
 ## I. Analyse Client
 
+> Ce dashboard analyse la composition et la performance du portefeuille client afin de comprendre qui sont les clients à fort potentiel, comment ils se répartissent géographiquement et par secteur, et quels leviers d'optimisation existent.
+
 ![Vue Client](vue_client.png)
 
 80 % de la clientèle est basée aux États-Unis, le reste réparti entre l'Europe, l'Asie et l'Amérique latine.
@@ -74,6 +76,8 @@ Cabinet de conseil en Data & Business Intelligence, spécialisé dans l'exploita
 ---
 
 ## II. Analyse Produit
+
+> Ce dashboard analyse la contribution de chaque produit au chiffre d'affaires afin d'identifier les moteurs de croissance, les produits sous-performants et les opportunités de rééquilibrage du mix produit.
 
 ![Vue Produit](vue_produit.png)
 
@@ -122,6 +126,8 @@ Les clients achètent souvent plusieurs produits et complètent leur gamme au fi
 ---
 
 ## IV. Performance commerciale
+
+> Ce dashboard analyse la performance commerciale des bureaux régionaux et des équipes de vente afin de comprendre comment se répartit le CA, quels commerciaux performent et où se cachent les opportunités de croissance.
 
 ![Vue Commerciale](vue_commerciale.png)
 
