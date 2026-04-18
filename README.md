@@ -137,6 +137,7 @@ Sur 10 M$ de CA, certains bureaux privilégient le **volume**, d'autres la **val
 | Cycle de vente | 59 jours | 54 / 55 jours |
 
 **Enjeu clé : trouver l'équilibre entre volume de ventes et valeur générée.**
+> Ces données sont directement vérifiables dans la vue Produit (tableau détaillé par produit — colonnes CA réalisé, Nb opportunités, Taux conversion et Durée moyenne cycle).
 
 ### Performance régionale
 
