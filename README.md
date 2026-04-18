@@ -14,7 +14,7 @@
 
 Cabinet de conseil en Data & Business Intelligence, spécialisé dans l'exploitation et la valorisation des données pour la prise de décision.
 
-**Notre mission :** Accompagner un acteur majeur des télécommunications basé aux États-Unis dans l'analyse de ses données CRM et l'optimisation de ses revenus grâce à des insights actionnables.
+** La mission :** Accompagner un acteur majeur des télécommunications basé aux États-Unis dans l'analyse de ses données CRM et l'optimisation de ses revenus grâce à des insights actionnables.
 
 ---
 
