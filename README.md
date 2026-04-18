@@ -115,6 +115,10 @@ Les clients achètent souvent plusieurs produits et complètent leur gamme au fi
 
 ## III. Analyse du cycle de vente
 
+> Ce graphique analyse si la durée du cycle de vente influence le résultat des opportunités commerciales, en comparant mois par mois le nombre d'opportunités gagnées vs perdues et leur impact sur le CA.
+
+![Cycle de vente](cycle_vente.png)
+
 **Hypothèse :** Les deals gagnés prennent-ils moins de temps à se conclure ?
 
 **Résultat :** La durée moyenne du cycle de vente est équivalente pour les opportunités perdues et gagnées.
@@ -122,7 +126,6 @@ Les clients achètent souvent plusieurs produits et complètent leur gamme au fi
 **Interprétation :** Le temps passé n'explique pas la perte des deals — d'autres facteurs interviennent.
 
 **Conclusion :** Les données disponibles ne précisent pas les causes de perte (juridiction, coupe budgétaire, concurrence, suivi insuffisant...)
-
 ---
 
 ## IV. Performance commerciale
