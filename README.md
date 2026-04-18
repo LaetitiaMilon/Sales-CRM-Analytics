@@ -147,6 +147,8 @@ Sur 10 M$ de CA, certains bureaux privilégient le **volume**, d'autres la **val
 | **Centre** — fort volume, faible valeur | 3,35M$ | 56,15 % | 2 000 | 51 jours |
 | **Est** — efficace mais sous-exploité | 3,09M$ | 58,70 % | 1 000 | 59 jours |
 
+![Performance régionale par bureau](performance_regionale.gif)
+
 ---
 
 ## V. Insights stratégiques
