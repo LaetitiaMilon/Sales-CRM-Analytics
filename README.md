@@ -81,8 +81,8 @@ Cabinet de conseil en Data & Business Intelligence, spécialisé dans l'exploita
 
 Trois produits dominent clairement le marché : **GTX Pro, GTX Plus Pro et MG Advanced** — parts de marché cumulées : **83 %**
 
-- La part de marché du seul produit de la gamme GTK est de **4 %**
-- **MG Special** est largement en retrait avec un CA à **0,44 %** du total
+- La part de marché du seul produit de la gamme GTK est de **4 %** ($400 612 sur $10 005 534 — visible dans le tableau de la vue produit)
+- **MG Special** est largement en retrait avec un CA à **0,44 %** du total ($43 768 — mis en évidence en rouge dans le tableau)
 
 ### Volumes de vente
 
