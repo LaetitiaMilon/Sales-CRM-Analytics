@@ -43,7 +43,7 @@ Cabinet de conseil en Data & Business Intelligence, spécialisé dans l'exploita
 
 ---
 
-## 3 Axes d'analyse
+## Axes d'analyse
 
 | Axe | Question |
 |---|---|
